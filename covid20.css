@@ -1,0 +1,51 @@
+body{
+	margin: 0;
+    padding: 0;
+    background: url(b.png);   
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+body{
+	font-family: Helvetica, Arial, sans-serif
+	font-size:18px;
+    color:purple;
+	background-color: black;
+	text-align: center;
+}
+
+h1{
+	font-family: Helvetica, Arial,sans-serif
+	font-size:40px;
+	color: green;
+}
+h2{
+	font-family: "Comic Sans Ms";
+	font-size: 30px;
+	color:silver;
+	text-align: left;
+}
+body{
+	color: green;
+	font-size: 30px;
+	text-align: left;
+}
+h3{
+	color: green;
+	font-size: 35px;
+}
+h4{
+	color:purple;
+	font-size: 35px;
+	text-align: center;
+}	
+h5{
+	color: purple;
+	font-size: 40px;
+	text-align: center;
+} 
+ul{
+	color: orange;
+	text-align: center;
+} 
